@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/college/xlab/ChenChengZhang_hw1/ChenChengZhang-main/ChenChengZhang_hw1-main/build",
+  "command": "D:\\college\\C\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/algebra_app.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\algebra_app.dir\\src\\main.c.obj -c D:\\college\\xlab\\ChenChengZhang_hw1\\ChenChengZhang-main\\ChenChengZhang_hw1-main\\src\\main.c",
+  "file": "D:/college/xlab/ChenChengZhang_hw1/ChenChengZhang-main/ChenChengZhang_hw1-main/src/main.c",
+  "output": "CMakeFiles/algebra_app.dir/src/main.c.obj"
+},
+{
+  "directory": "D:/college/xlab/ChenChengZhang_hw1/ChenChengZhang-main/ChenChengZhang_hw1-main/build",
+  "command": "D:\\college\\C\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/algebra_app.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\algebra_app.dir\\src\\algebra.c.obj -c D:\\college\\xlab\\ChenChengZhang_hw1\\ChenChengZhang-main\\ChenChengZhang_hw1-main\\src\\algebra.c",
+  "file": "D:/college/xlab/ChenChengZhang_hw1/ChenChengZhang-main/ChenChengZhang_hw1-main/src/algebra.c",
+  "output": "CMakeFiles/algebra_app.dir/src/algebra.c.obj"
+}
+]
